@@ -116,8 +116,6 @@ This project demonstrates a structured approach to solving a regression problem 
 
 ## Contact
 
-- **Email:** your-email@example.com  
-- **LinkedIn:** your-linkedin-profile  
-- **GitHub:** your-github-profile  
-
-⭐ Feel free to explore the notebook and share feedback.
+- **Email:** adityauttekar33@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/aditya-uttekar03/ 
+- **GitHub:** https://github.com/aditya333318
